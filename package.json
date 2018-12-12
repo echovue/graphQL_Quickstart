@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/echovue/graphQL_Quickstart/issues"
   },
-  "homepage": "https://github.com/echovue/graphQL_Quickstart#readme"
+  "homepage": "https://github.com/echovue/graphQL_Quickstart#readme",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
 }
